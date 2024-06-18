@@ -30,8 +30,8 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 1. Clona el repositorio a tu máquina local.
 
 ```bash
-git clone https://github.com/tu-usuario/instrumento-musical-digital.git
-cd instrumento-musical-digital
+git clone https://github.com/DDansAbelenda/alura-midi-instrumento.git
+cd alura-midi-instrumento
 ```
 
 2. Abre el archivo `index.html` en tu navegador web favorito.
